@@ -1,1 +1,1 @@
-# Red-Wine-Dataset-Exploration
+This is a project where I explored a dataset with measured properties and a quality rating from 1599 wines. To run the rmd locally you will need to download the dataset and provide the proper directory within the program. The plots and comments are a stream of consiousness rather than a polished report. There are three polished visualizations at the end of the program. Also included is a fundamental linear regression model that I ran out of interest. With further work, it might be more useful. 
